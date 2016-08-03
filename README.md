@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/accmpp/CSC-285"><img src="/images/csc285.ico" alt="CSC 285"/></a>
-<h1> CSC 285 HOW-TO</h1></p>
+<h1> CSC 285 HOW-TO-ENROLL</h1></p>
 Explains how to setup Android Studio with GitHub and enroll in the Private class repository.
 
 # SETUP
