@@ -22,7 +22,7 @@ Awesome! Click below to complete the enrollment process. Enter your name and ema
 
 ### Instructions for Windows:
 
-1. Apologies in advance since these are significantly more annoying than the instructions for Mac. If you have any problems or questions let me know!  
+1. Windows instructions are significantly more annoying than the instructions for Mac. If you have any problems or questions please let me know!  
 2. Install GitHub for Windows: https://desktop.github.com/  
 3. Open Command Prompt (go to your search bar, search for "Command Prompt" and open it).  
 4. In the Command Prompt, type "dir git.exe /s /p" and press enter on your keyboard.  
@@ -32,6 +32,6 @@ Awesome! Click below to complete the enrollment process. Enter your name and ema
 8. Select "File," and then "Settings."  
 9. In the window that appears, select "Version Control" and then "Git" on the left sidebar.  
 10. At the top of the window, you will see a field named "Path to Git executable." Paste the line you copied earlier there, and at the end of it, add "\git.exe" so the final line looks something like: C:\Users[YOUR_USERNAME]\AppData\Local\GitHub\PortableGit_[RANDOM_LETTERS_AND_NUMBERS]\cmd\git.exe  
-11. Click "Test." It should say everything was successful! If not, let us know.  
+11. Click "Test." It should say everything was successful! If not, let me know.  
 12. Click "Apply" and then "OK" in the bottom right hand corner of the window.  
  
