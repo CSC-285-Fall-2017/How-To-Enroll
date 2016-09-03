@@ -18,7 +18,7 @@ Awesome! Click below to complete the enrollment process. Enter your name and ema
 
 ### Instructions for Mac:
 
-1. Install Git if you haven't already: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac.  
+1. Install Git if you haven't already: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac. Please choose the 3rd option, "install it as part of the GitHub for Mac install". 
 
 ### Instructions for Windows:
 
